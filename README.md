@@ -1,3 +1,6 @@
+![image](https://github.com/indresh149/flutter_shop/assets/76736055/d2121c49-14ae-461d-acdb-3b3bea786c12)
+
+
 ![image](https://user-images.githubusercontent.com/76736055/228969291-84d5d4c6-9f0a-452e-a3f5-0b0a187fb543.png)
 
 
@@ -7,7 +10,6 @@
 
 
 
-![showcaseview](https://user-images.githubusercontent.com/76736055/227803719-3db9861f-9dc6-4435-bbdf-ea7906d9bd81.gif)
 
 
 
