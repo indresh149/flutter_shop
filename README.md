@@ -7,6 +7,15 @@
 
 ![image](https://user-images.githubusercontent.com/76736055/228969459-bfdc136f-4864-4f61-9720-ef0d27d03e8d.png)
 
+Instructions to run on local Machine:
+1. Clone the project using git clone
+2.. Run pub get
+3. Install on any emulator by running flutter run.
+
+
+
+
+
 
 
 
